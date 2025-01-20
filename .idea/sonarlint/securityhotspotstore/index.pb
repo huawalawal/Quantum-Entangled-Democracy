@@ -11,3 +11,5 @@ Q
 !tests/proposal-management.test.ts,9/3/93ea9df6f98f98b81edeff72cfc77c76646aa4a7
 L
 contracts/vote-counting.clar,f/c/fc1ec02532f472c7ec696d4065436f3577a4b784
+K
+tests/vote-counting.test.ts,7/8/78d38cf5ef74f106c1668234d943a3f4b0f172a6
